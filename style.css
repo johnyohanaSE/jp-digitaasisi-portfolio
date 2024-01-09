@@ -62,4 +62,16 @@ a:hover{
 
 .logo:hover{
     cursor: default;
+} 
+
+/* sections*/
+
+section{
+    padding-top: 4hv;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
+    
 }
+
